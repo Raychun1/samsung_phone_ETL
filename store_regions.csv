@@ -1,0 +1,5 @@
+store_id,store_name,city,country,region
+S001,Samsung Store Chicago,Chicago,USA,Midwest
+S002,Samsung Store NYC,New York,USA,Northeast
+S003,Samsung Store Toronto,Toronto,Canada,Ontario
+S004,Samsung Store London,London,UK,England
